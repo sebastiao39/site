@@ -5,3 +5,5 @@ Eu sou da dev squad
 Eu sou feliz. Feliz da vida
 
 Hoje passiei com a minha gata
+
+Estou a praticar conceitos básicos do git
